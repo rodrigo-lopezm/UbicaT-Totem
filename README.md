@@ -1,8 +1,10 @@
-# 🏛️ UPV Campus Guía & Waze Accesible · Prototipo v4
+# UPV Campus Guía · Prototipo v4
 
 Prototipo de señalética digital inclusiva y plataforma colaborativa en tiempo real para el **Campus de Vera de la Universitat Politècnica de València (UPV)**.
 
-Conecta tótems informativos físicos (con orientación accesible a cota cero, navegación multinivel y sensores ambientales) con una herramienta comunitaria abierta tipo Waze vinculada a las incidencias de mantenimiento (Gregal UPV).
+Conecta tótems informativos físicos (con orientación accesible a cota cero, navegación multinivel y sensores ambientales) con una herramienta comunitaria abierta tipo Waze usando crowdsourcing junto a las incidencias de mantenimiento (Gregal UPV).
+
+> Nota: Esto es solo un prototípo utilizado en el hackathon DicaTIC celebrado el 22 de Octubre de 2026, este fue el proyecto ganador, desarrollado en equipo.
 
 ---
 
